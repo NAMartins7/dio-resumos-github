@@ -43,5 +43,5 @@ Plataforma de hospedagem de código para controle de versão com "Git", e colobo
 | `Git Init`| É responsavél por inicializar um repositório git |
 | `Git Status`| Mostra o status da nossa árvore de trabalho |
 | `Mkdir`| Criar repositório|
-| `Git remote ADD origin URL` | Para poder conectar o Repo-local com o repo remoto
-| `Git clone URL` `nome do diretorio local`| Para o clone não ficar com o mesmo nome
+| `Git remote ADD origin URL` | Para poder conectar o Repo-local com o repo remoto |
+| `Git clone URL` `nome do diretorio local`| Para o clone não ficar com o mesmo nome |
