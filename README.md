@@ -34,8 +34,8 @@ Sistema de controle de versão distribuído.
 ### **O que é GitHub?**
 Plataforma de hospedagem de código para controle de versão com "Git", e coloboração.
 
-| COMMAND | Description |
-| ----- | | ------ |
+|COMMAND|Description|
+|-----| |------|
 | `Git commit`|  Grava alterações no repositório |
 | `Git Pull` | Puxa as alterações do respositório remoto para o local|
 | `git push`| Empurra as alterações do repositório local para o remoto|
