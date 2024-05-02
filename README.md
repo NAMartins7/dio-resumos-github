@@ -32,7 +32,7 @@ Controlam as versões de um arquivo ao longo do tempo
 Sistema de controle de versão distribuído.
 
 ### **O que é GitHub?**
-Plataforma de hospedagem de códigopara controle de versão com "Git", e coloboração.
+Plataforma de hospedagem de código para controle de versão com "Git", e coloboração.
 
 | COMMAND | Description |
 | ----- | | ------ |
